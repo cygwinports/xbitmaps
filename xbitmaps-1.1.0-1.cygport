@@ -1,0 +1,4 @@
+inherit xorg
+
+# previous versions were in data/, but not this one (not sure why yet)
+SRC_URI="http://xorg.freedesktop.org/releases/individual/app/${P}.tar.bz2"
