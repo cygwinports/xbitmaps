@@ -1,3 +1,4 @@
 category: X11
+requires:
 sdesc: "X.Org bitmap sources"
 ldesc: "X.Org bitmap sources"
